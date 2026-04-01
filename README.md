@@ -13,4 +13,4 @@ This repository contains all Cryptography and Network Security Programs
     @tMC Uday Sir
 
 🏫 Institution
-    .Sasi Institute of Technology & Engineering
+    -Sasi Institute of Technology & Engineering
